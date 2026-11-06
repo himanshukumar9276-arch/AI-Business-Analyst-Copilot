@@ -1,0 +1,23 @@
+fastapi
+uvicorn
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+langgraph
+langchain-tavily
+sentence-transformers
+faiss-cpu
+pandas
+plotly
+python-dotenv
+pydantic
+requests
+sqlparse
+pypdf
+
+
+
+#python -m pip install -r requirements.txt
